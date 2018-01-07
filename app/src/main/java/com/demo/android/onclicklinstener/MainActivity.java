@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button button1,button2,button3,button4;
     ImageView imageView;
+    int i=10;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
